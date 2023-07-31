@@ -68,13 +68,6 @@
     ora "5.4.1"
     rxjs "6.6.7"
 
-"@authenio/samlify-xsd-schema-validator@^1.0.3":
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/@authenio/samlify-xsd-schema-validator/-/samlify-xsd-schema-validator-1.0.3.tgz#7e30a5a3a4af302f43095fec1eb9d3fd29778142"
-  integrity sha512-J4yC4S6Jn8bd9AXIdytzuFprrpDrRoV5TUoH135fFirx8CE1wUzy5xKYPXi8juDRylsIKOGpXEY3voCPIWYxGg==
-  dependencies:
-    "@authenio/xsd-schema-validator" "^0.7.1"
-
 "@authenio/xml-encryption@^2.0.0":
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/@authenio/xml-encryption/-/xml-encryption-2.0.0.tgz#20c4bbdd14398bbac0b731c7551020af1dc6f92a"
@@ -83,11 +76,6 @@
     "@xmldom/xmldom" "^0.7.0"
     escape-html "^1.0.3"
     xpath "0.0.32"
-
-"@authenio/xsd-schema-validator@^0.7.1":
-  version "0.7.1"
-  resolved "https://registry.yarnpkg.com/@authenio/xsd-schema-validator/-/xsd-schema-validator-0.7.1.tgz#3264c1b781d5192fe46cb5207d6ce51a706eed07"
-  integrity sha512-LfxalSt34Z6V2MKBRExfDBXHwLO3PycKaI0+k4nM1ei5rLJZHqU3C/vYm+LaA1nba6cu+cVXQY8zez3R0ZKl+w==
 
 "@aws-crypto/ie11-detection@^2.0.0":
   version "2.0.0"
